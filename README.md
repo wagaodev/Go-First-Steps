@@ -1,4 +1,4 @@
-# Aprendendo Go
+# <center>Aprendendo Go</center>
 
 ## ⚙️ Descrição do repositório
 
